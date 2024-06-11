@@ -14,8 +14,8 @@
 ## Installation
 1. Clone the Repository:
 ```
-git clone https://github.com/your-username/whatsapp-chat-analyzer.git
-cd whatsapp-chat-analyzer
+git clone https://github.com/AbdAziz1/Whatsapp-Chat-Analysis.git
+cd Whatsapp-Chat-Analysis
 ```
 2. Install Dependencies:
 #### Make sure you have Python 3.7+ installed. Install the required packages using pip:
